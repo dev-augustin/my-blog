@@ -1,5 +1,5 @@
 # This project is a code along project as part of LinkedIn Learning with react and Node JS.
-### Course Name: React: Creating and Hosting a Full-Stack Site
+### Course Name: React: Creating and Hosting a Full-Stack Site - Shaun Wassell
 
 # Getting Started with Create React App
 
